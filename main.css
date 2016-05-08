@@ -4,5 +4,10 @@ h1 {
 }
 
 div {
-  background-color: #dddddd;
+  background-color: #f5c9d3;
+}
+
+span {
+  color: #be0f34;
+  font-weight: bold;
 }
