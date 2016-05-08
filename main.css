@@ -2,3 +2,7 @@ h1 {
   color: #984874;
   border-bottom: 1px solid #984874;
 }
+
+div {
+  background-color: #dddddd;
+}
